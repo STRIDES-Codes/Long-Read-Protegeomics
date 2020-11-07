@@ -1,1 +1,1 @@
-# Long Read Protegeomics
+# Long Read Proteogenomics
